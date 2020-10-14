@@ -1,0 +1,84 @@
+---
+title: "título"
+output: 
+  html_document: 
+    css: style.css
+lang: es-CO
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("graficos.R")
+Sys.setlocale(locale = "es_ES.UTF-8")
+library(downloadthis)
+```
+<br>
+<center>[Juan Cristóbal Birbuet](https://www.linkedin.com/in/juan-cristóbal-birbuet-rosazza-b563208/) & [Rafael López V.](https://rafalopezv.io/about/)</center>
+<br>
+<h1>MENSAJE 1/<h1>
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 10, fig.height = 7, warning = F, message = F}
+blancos_nulos_nal
+download_this(
+  button_label = "Descarga el gráfico",
+  blancos_nulos_nal
+)
+```
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 10, fig.height = 11, warning = F, message = F}
+blancos_nulos_dpal
+download_this(
+  button_label = "Descarga el gráfico",
+  blancos_nulos_dpal
+)
+```
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 12, fig.height = 11, warning = F, message= F}
+blancos_mesas
+download_this(
+  button_label = "Descarga el gráfico",
+  blancos_mesas
+)
+```
+<h1>MENSAJE 2/<h1>
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 12, fig.height = 10, warning = F, message = F}
+mas_ipsp
+download_this(
+  button_label = "Descarga el gráfico",
+  mas_ipsp
+)
+```
+
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 12, fig.height = 10, warning = F, message = F}
+bdn
+download_this(
+  button_label = "Descarga el gráfico",
+  bdn
+)
+```
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 12, fig.height = 10, warning = F, message = F}
+bdn_scz
+download_this(
+  button_label = "Descarga el gráfico",
+  bdn_scz
+)
+```
+<br>
+<br>
+```{r, include=T, echo = F, fig.width = 12, fig.height = 10, warning = F, message = F}
+scatter_bdn
+download_this(
+  button_label = "Descarga el gráfico",
+  scatter_bdn
+)
+```
+

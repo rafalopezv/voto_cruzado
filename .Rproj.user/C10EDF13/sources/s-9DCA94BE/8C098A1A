@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602642680446.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "577969409",
+    "id" : "8C098A1A",
+    "lastKnownWriteTime" : 1602700246,
+    "last_content_update" : 1602700246070,
+    "path" : "~/Documents/R/voto_cruzado/graficos.R",
+    "project_path" : "graficos.R",
+    "properties" : {
+        "cursorPosition" : "323,7",
+        "scrollLine" : "314"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

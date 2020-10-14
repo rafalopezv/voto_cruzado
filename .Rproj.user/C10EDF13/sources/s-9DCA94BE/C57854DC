@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602642525947.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C57854DC",
+    "lastKnownWriteTime" : 1602642876,
+    "last_content_update" : 1602642876274,
+    "path" : "~/Documents/R/voto_cruzado/limpieza.R",
+    "project_path" : "limpieza.R",
+    "properties" : {
+        "cursorPosition" : "106,46",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
