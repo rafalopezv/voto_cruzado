@@ -17,7 +17,7 @@ library(downloadthis)
 <br>
 <br>
 <br>
-El voto cruzado no será una novedad en 2020, es una práctica del electorado boliviano y muestra la sagacidad del elector que actúa de acuerdo a su criterio, desafiando las consignas y la propaganda, para equilibrar los distintos espacios político-electorales. La última prueba de ello se verifica en la elección del 20 de octubre del año pasado, particularmente en Santa Cruz. Existe evidencia de que el electorado de Comunidad Ciudadana (CC) y de Bolivia Dijo No (BDN) votó cruzado, en nítido contraste con los electores del Movimiento al Socialismo (MAS), que votaron en línea por su partido. <br>
+El voto cruzado no será una novedad en 2020, es una tradición del electorado boliviano y muestra la sagacidad del elector que actúa de acuerdo a su criterio, desafiando las consignas y la propaganda, para equilibrar los distintos espacios político-electorales. La última prueba de ello se verifica en la elección del 20 de octubre del año pasado, particularmente en Santa Cruz. Existe evidencia de que el electorado de Bolivia Dijo No (BDN) votó cruzado, en nítido contraste con los electores del Movimiento al Socialismo (MAS), que votaron en línea por su partido. <br>
 
 <h2>Figura 1</h2>
 
@@ -25,7 +25,10 @@ El voto cruzado no será una novedad en 2020, es una práctica del electorado bo
 
 <br>
 Llega el momento de las elecciones y la estrategia del electorado reflejará su intención por establecer pesos y contrapesos en el sistema político. El elector boliviano sabe que cuando opta por cruzar su voto reduce la probabilidad de que sea un único partido quien detente el poder hegemónico. 
-De la Figura 2 se desprende que en las elecciones generales de octubre de 2019 hubo voto cruzado, y este ocurrió de manera más intensa en los departamentos de Santa Cruz, La Paz, Potosí y Tarija, siendo menos frecuente en otros departamentos del país. Una línea de tendencia plana, denota que los electores dieron pocos votos a su candidato a presidente y muchos votos a sus candidatos a diputado uninominal.
+
+De la Figura 2 se desprende que en las elecciones generales de octubre de 2019 hubo voto cruzado, y este ocurrió de manera más intensa en los departamentos de Santa Cruz, La Paz, Potosí y Tarija, siendo menos frecuente en otros departamentos del país. 
+
+Una línea de tendencia plana, denota que los electores dieron pocos votos a su candidato a presidente y muchos votos a sus candidatos a diputado uninominal. 
 <br>
 
 <h2>Figura 2</h2>
@@ -38,7 +41,7 @@ download_this(
 )
 ```
 <br>
-De la Figura 3 se infiere que el voto cruzado se produjo fundamentalmente entre los electores de CC y BDN. En cambio, en la Figura 4, se muestra que el electorado del MAS mostró mucho menos propensión a cruzar su voto y redistribuir el poder entre otros partidos políticos. Gráficamente, esto se ve en la desproporción que existe entre los votos a presidente y vicepresidente, y los votos para diputados uninominales, en el caso de BDN, en contraste con la simetría casi perfecta del voto para ambos del electorado del MAS, claro reflejo del voto en línea.
+De la Figura 3 se infiere que el voto cruzado se produjo fundamentalmente en los electores de BDN. En cambio, en la Figura 4, se muestra que el electorado del MAS mostró mucho menos propensión a cruzar su voto y redistribuir el poder entre otros partidos políticos. Gráficamente, esto se ve en la desproporción que existe entre los votos a presidente y vicepresidente, y los votos para diputados uninominales, en el caso de BDN, en contraste con la simetría casi perfecta del voto para ambos del electorado del MAS, claro reflejo del voto en línea. 
 <br>
 
 <h2>Figura 3</h2>
@@ -62,7 +65,8 @@ download_this(
 )
 ```
 <br>
-Si hacemos un zoom a lo ocurrido en Santa Cruz (Figura 5), se observa el mismo patrón de cruzamiento de voto, BDN recibió mucho menos votos para presidente en relación a los que consiguió para sus diputados uninominales:
+Si hacemos un zoom a lo ocurrido en Santa Cruz (Figura 5), se observa el mismo patrón de cruzamiento de voto, BDN recibió mucho menos votos para presidente en relación a los que consiguió para sus diputados uninominales, es decir, votaron por CC para presidente. 
+
 <br>
 
 <h2>Figura 5</h2>
@@ -76,9 +80,12 @@ download_this(
 ```
 
 <br>
-Hay quienes piensan que uno de los mayores peligros de los gobiernos es que gobiernen demasiado; pues cuando un gobierno controla todo excede sus potestades y tiende a ejecutar decisiones irrespetando la legalidad, y el electorado entiende que entonces el sistema de pesos y contrapesos que exige la democracia se vulnera, transformándose, irremediablemente, en ingobernabilidad. Los electores han establecido el sistema de pesos y contrapesos a través de su voto, y una estrategia para hacerlo consistió en distribuir el poder entre los distintos partidos mediante el voto cruzado. 
+Hay quienes piensan que uno de los mayores peligros de los gobiernos es que gobiernen demasiado; pues cuando un gobierno controla todo excede sus potestades y tiende a ejecutar decisiones irrespetando la legalidad, y el electorado entiende que entonces el sistema de pesos y contrapesos que exige la democracia se vulnera. 
+
 En Bolivia no siempre existió la posibilidad de votar directamente por los representantes de la Asamblea Legislativa, la primera vez que se lo hizo fue en las elecciones generales de 1997, abriendo una gran oportunidad para que el electorado distribuya poderes entre partidos de manera estratégica. 
-Si la elección de diputados uninominales es tan importante para la democracia, no debe tomarse como algo secundario. La sofisticación de una parte del electorado boliviano, revelada en el voto cruzado, contrasta con la decisión de otra parte del electorado por optar votar blanco y nulo por el diputado uninominal de su circunscripción. El 22% de los electores votó en blanco o nulo para diputado uninominal, mientras que sólo el 5% hizo lo mismo para presidente y vicepresidente.  
+
+Si la elección de diputados uninominales es tan importante para la democracia, no debe tomarse como algo secundario. El 22% de los electores votó en blanco o nulo para diputado uninominal, mientras que sólo el 5% hizo lo mismo para presidente y vicepresidente.  Decidir votar en blanco o nulo tiene implicaciones, la principal, es que debido a que esos votos se distribuyen entre los distintos partidos de manera proporcional a los votos válidos que obtienen, favorecen de forma directa a los partidos mayoritarios.
+
 <br>
 
 <h2>Figura 6</h2>
@@ -116,8 +123,7 @@ download_this(
 ```
 <br>
 <br>
-Decidir votar en blanco o nulo tiene implicaciones, la principal, es que debido a que esos votos se distribuyen entre los distintos partidos de manera proporcional a los votos válidos que obtienen, favorecen de forma directa a los partidos mayoritarios.
-Cada persona tiene que votar siendo consecuente consigo mismo, siempre y cuando haya tenido en cuenta todas las opciones y las consecuencias que su voto tendrá. Se puede dialogar, conversar y exponer los distintos puntos de vista, pero tomando en cuenta que cada cual es libre de tomar las decisiones por sí mimo. A pocos días de la elección, lo único que se puede pedir a los electores es que mediten su voto, que tomen una decisión inteligente. **Uno puede pensar lo que quiera, lo importante es que lo piense**.
+A pocos días de la elección, seguramente los electores bolivianos actuarán como lo han hecho antes, meditando las consecuencias de su voto y siendo consecuentes consigo mismos. 
 <br>
 <br>
 <center>[<img src = "github.png"  height="60" width="80">](https://github.com/rafalopezv/voto_cruzado)</center>
